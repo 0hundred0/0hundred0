@@ -20,9 +20,9 @@
 <img align="left" alt="python" width="30px" src=".github/images/python.svg"/>
 <img align="left" alt="npm" width="30px" src=".github/images/npm.svg"/>
 <img align="left" alt="git" width="30px" src=".github/images/git.svg"/>
-<img align="left" alt="Bootstrap" width="30px" src=".github/images/java.svg"/>
-<img align="left" alt="Bootstrap" width="30px" src=".github/images/cpp.svg"/>
-<img align="left" alt="Bootstrap" width="30px" src=".github/images/apple.svg"/> 
+<img align="left" alt="Java" width="30px" src=".github/images/java.svg"/>
+<img align="left" alt="C++" width="30px" src=".github/images/cpp.svg"/>
+<img align="left" alt="Apple/Linux" width="30px" src=".github/images/apple.svg"/> 
 
 <br />
 <br />
