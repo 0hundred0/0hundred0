@@ -10,21 +10,21 @@
 <br />
 
 ## Languages and Tools: ##
-<img align="left" alt="html" width="25px" src="https://raw.githubusercontent.com/NotKijana/NotKijana/9b43bb5edf1b5778bf2cefc4200f68a6b55f2a8a/.github/images/html.svg?token=AQGQHDTMJW2YBRDUNAKRM43BHFZA4"/> 
-<img align="left" alt="CSS3" width="25px" src="https://raw.githubusercontent.com/NotKijana/NotKijana/9b43bb5edf1b5778bf2cefc4200f68a6b55f2a8a/.github/images/css3.svg?token=AQGQHDUO2LCZ3PPV574WAI3BHFYVC"/> 
-<img align="left" alt="Javascript" width="25px" src="https://raw.githubusercontent.com/NotKijana/NotKijana/9b43bb5edf1b5778bf2cefc4200f68a6b55f2a8a/.github/images/javascript.svg?token=AQGQHDRFGU2XWWYSV7XKB5LBHFZCC"/> 
-<img align="left" alt="react" width="25px" src=".github/images/react.svg"/> 
-<img align="left" alt="python" width="25px" src="https://raw.githubusercontent.com/NotKijana/NotKijana/9b43bb5edf1b5778bf2cefc4200f68a6b55f2a8a/.github/images/python.svg?token=AQGQHDQHYUNTZR2HTUOUXBTBHFZES"/>
-<img align="left" alt="npm" width="25px" src="https://raw.githubusercontent.com/NotKijana/NotKijana/9b43bb5edf1b5778bf2cefc4200f68a6b55f2a8a/.github/images/npm.svg?token=AQGQHDWOSWUNRVKXPMXI47LBHFZDI"/>
-<img align="left" alt="git" width="25px" src="https://raw.githubusercontent.com/NotKijana/NotKijana/9b43bb5edf1b5778bf2cefc4200f68a6b55f2a8a/.github/images/git.svg?token=AQGQHDWRT5425HUSLSVQBKLBHFY7Q"/>
-<img align="left" alt="Bootstrap" width="25px" src="https://raw.githubusercontent.com/NotKijana/NotKijana/9b43bb5edf1b5778bf2cefc4200f68a6b55f2a8a/.github/images/bootstrap.svg?token=AQGQHDTFCMSWOI4PM3CTIILBHFYQK"/> 
+<img align="left" alt="html" width="30px" src=".github/images/html.svg"/> 
+<img align="left" alt="CSS3" width="30px" src=".github/images/css3.svg"/> 
+<img align="left" alt="Javascript" width="30px" src=".github/images/javascript.svg"/> 
+<img align="left" alt="react" width="30px" src=".github/images/react.svg"/> 
+<img align="left" alt="python" width="30px" src=".github/images/python.svg"/>
+<img align="left" alt="npm" width="30px" src=".github/images/npm.svg"/>
+<img align="left" alt="git" width="30px" src=".github/images/git.svg"/>
+<img align="left" alt="Bootstrap" width="30px" src=".github/images/bootstrap.svg"/> 
 
 ---
 
 ## Let's be internet friends! ##
-[<img align="left alt="NotKijana LinkedIn" width="25px" src=""/>][linkedin]
-[<img align="left alt="NotKijana LinkedIn" width="25px" src=""/>][codepen]
-[<img align="left alt="NotKijana LinkedIn" width="25px" fill="#7289da" src=""/>][discord]
+[<img align="left alt="NotKijana LinkedIn" width="30px" src=".github/images/linkedin.svg"/>][linkedin]
+[<img align="left alt="NotKijana LinkedIn" width="30px" src=".github/images/codepen.png"/>][codepen]
+[<img align="left alt="NotKijana LinkedIn" width="30px" fill="#7289da" src=".github/images/discord.svg"/>][discord]
 
 
 [Kijana]: kijana.io
