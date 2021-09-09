@@ -25,6 +25,7 @@
 <img align="left" alt="Bootstrap" width="30px" src=".github/images/apple.svg"/> 
 
 <br />
+<br />
 
 ## Let's be internet friends! ##
 [<img align="left" alt="NotKijana LinkedIn" width="30px" src=".github/images/linkedin.svg" />][linkedin]
