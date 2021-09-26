@@ -2,7 +2,7 @@
 
 <br />
 
-## I am a Animal Lover, Manga/Anime/Comics Geek, and a Student! ##
+## I am an Animal Lover, Manga/Anime/Comics Geek, and a Student! ##
 - 💻 I am currently working on a Fate Grand Order or FGO based Pokédex
 - 📚 I'm mainly learning Javascript and Js frameworks (as of now Angular)
 - 👨🏾‍💻 I would like to collaborate on projects outside the Hackathons I attend
