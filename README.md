@@ -1,4 +1,4 @@
-### Howdy, I am [Kijana] (Ka-john-a)- though my online moniker is "NotKijana" 😅 ###
+### Howdy, I am [Kijana] (Ka-john-a) and my online moniker is "NotKijana" 😅! ###
 
 <br />
 
