@@ -3,10 +3,9 @@
 <br />
 
 ## I am an Animal Lover, Manga/Anime/Comics Geek, and a bit of a geek! ##
-- 💻 I am currently working on a Social Media app using Next.js
-- 📚 My current language of choice is Javascript as I love the flexibility and the scalability
-- 👨🏾‍💻 One my resolutions is to work on collaborative projects
-- 👔 I am actively searching for an opportunity to start working as a full-time developer
+- 💻 I am currently working on improving my older projects
+- 📚 My current language/framework of focus is ReactJs as I love the flexibility and the scalability
+- 👔 I am also actively searching for full-time opportunities
 - 🥷🏾 Random Fact: I am a huge collector of anime figures, my favorite as of now is my Banpresto World Colosseum Super Saiyan [Goku]
 
 <br />
@@ -33,7 +32,7 @@
 [<img align="left" alt="NotKijana LinkedIn" width="30px" fill="#7289da" src=".github/images/discord.svg" />][discord]
 
 
-[Kijana]: kijana.io
+[Not a Link to my site]: kijana.io
 [Goku]: https://www.amazon.com/Banpresto-Dragon-Figure-Colosseum-ver-Vol-1/dp/B076VLY621
 [linkedin]: https://www.linkedin.com/in/kijana-richmond-525a95162/
 [codepen]: https://codepen.io/NotKijana
