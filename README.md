@@ -3,8 +3,8 @@
 <br />
 
 ## I am an Animal Lover, Manga/Anime/Comics Geek, and a bit of a geek! ##
-- 💻 I am currently working on improving my older projects
-- 📚 My current language/framework of focus is ReactJs as I love the flexibility and the scalability
+- 💻 I am currently focusing on learning how to implement Typescript and Jest into my projects
+- 📚 My current frontend framework of choice is ReactJs as it is well documented and consistently updated
 - 👔 I am also actively searching for full-time opportunities
 - 🥷🏾 Random Fact: I am a huge collector of anime figures, my favorite as of now is my Banpresto World Colosseum Super Saiyan [Goku]
 
