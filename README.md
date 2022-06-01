@@ -2,11 +2,11 @@
 
 <br />
 
-## I am an Animal Lover, Manga/Anime/Comics Geek, and a bit of a geek! ##
-- 💻 I am currently focusing on learning how to implement Typescript and Jest into my projects
-- 📚 My current frontend framework of choice is ReactJs as it is well documented and consistently updated
+## I am an Animal Lover, Manga/Anime/Comics Geek, and a bit of a geek ##
+- 💻 I am currently focusing on to implementing Typescript and Jest into my projects
+- 📚 My current frontend framework of choice is ReactJs as it is well documented and has a large community
 - 👔 I am also actively searching for full-time opportunities
-- 🥷🏾 Random Fact: I am a huge collector of anime figures, my favorite as of now is my Banpresto World Colosseum Super Saiyan [Goku]
+- 🥷🏾 Random Fact: I am a huge collector of anime figures, my favorite as of now is Fate/Grand Order Gilgamesh [Gilgamesh]
 
 <br />
 
@@ -33,7 +33,7 @@
 
 
 [Not a Link to my site]: kijana.io
-[Goku]: https://www.amazon.com/Banpresto-Dragon-Figure-Colosseum-ver-Vol-1/dp/B076VLY621
+[Gilgamesh]: https://www.bigbadtoystore.com/product/variationdetails/106569?utm_source=google&utm_medium=opla&utm_term=FAT-106569
 [linkedin]: https://www.linkedin.com/in/kijana-richmond-525a95162/
 [codepen]: https://codepen.io/NotKijana
 [discord]: https://discordapp.com/users/813521466510540811/
