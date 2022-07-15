@@ -1,4 +1,4 @@
-### Howdy, I am Kijana (Ka-john-a) and my online moniker is "NotKijana" 😅! ###
+### Howdy, I am Kijana (Ka-john-a) and am a Web Developer😅! ###
 
 <br />
 
