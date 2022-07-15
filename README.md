@@ -6,7 +6,7 @@
 - 💻 I am currently focusing on to implementing Typescript and Jest into my projects
 - 📚 My current frontend framework of choice is ReactJs as it is well documented and has a large community
 - 👔 I am also actively searching for full-time opportunities
-- 🥷🏾 Random Fact: I am a huge collector of anime figures, my favorite as of now is Fate/Grand Order Gilgamesh [Gilgamesh]
+- 🥷🏾 Random Fact: I am a huge collector of anime figures, my favorite as of now is Fate/Grand Order [Gilgamesh]
 
 <br />
 
