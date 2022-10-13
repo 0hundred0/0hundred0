@@ -27,13 +27,14 @@
 <br />
 
 ## Let's be internet friends! ##
-[<img align="left" alt="NotKijana LinkedIn" width="30px" src=".github/images/linkedin.svg" />][linkedin]
-[<img align="left" alt="NotKijana LinkedIn" width="30px" src=".github/images/codepen.png" />][codepen]
-[<img align="left" alt="NotKijana LinkedIn" width="30px" fill="#7289da" src=".github/images/discord.svg" />][discord]
+[<img align="left" alt="0hundred LinkedIn" width="30px" src=".github/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="0hundred Codepen" width="30px" src=".github/images/codepen.png" />][codepen]
+[<img align="left" alt="0hundred Discord" width="30px" fill="#7289da" src=".github/images/discord.svg" />][discord]
 
 
-[Not a Link to my site]: kijana.io
+
+[Not a Link to my site]: 0hundred.dev
 [Gilgamesh]: https://www.bigbadtoystore.com/product/variationdetails/106569?utm_source=google&utm_medium=opla&utm_term=FAT-106569
-[linkedin]: https://www.linkedin.com/in/kijana-richmond-525a95162/
-[codepen]: https://codepen.io/NotKijana
+[linkedin]: https://www.linkedin.com/in/kijana-p-richmond/
+[codepen]: https://codepen.io/0hundred
 [discord]: https://discordapp.com/users/813521466510540811/
