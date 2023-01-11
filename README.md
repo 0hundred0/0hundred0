@@ -2,11 +2,11 @@
 
 <br />
 
-## I am an Animal Lover, Manga/Anime/Comics Geek, and a bit of a geek ##
-- 💻 I am currently focusing on to implementing Typescript and Jest into my projects
-- 📚 My current frontend framework of choice is ReactJs as it is well documented and has a large community
-- 👔 I am also actively searching for full-time opportunities
-- 🥷🏾 Random Fact: I am a huge collector of anime figures, my favorite as of now is Fate/Grand Order [Gilgamesh]
+## I am an Animal Lover, Manga/Anime/Comics Geek, and I am a huge Kingdom Hearts fan ##
+- 💻 I am currently focusing on full-stack development and my API (Ultima.rest).
+- 📚 My favorite tool to use when developing is supabase as it makes creating and managing a database simple.
+- 👔 I am interested in hearing about new full-time opportunities.
+- 🥷🏾 Random Fact: I am a huge collector of anime figures, my next figure is going to be of [Gilgamesh].
 
 <br />
 
@@ -30,10 +30,9 @@
 [<img align="left" alt="0hundred LinkedIn" width="30px" src=".github/images/linkedin.svg" />][linkedin]
 [<img align="left" alt="0hundred Codepen" width="30px" src=".github/images/codepen.png" />][codepen]
 [<img align="left" alt="0hundred Discord" width="30px" fill="#7289da" src=".github/images/discord.svg" />][discord]
+[<img align="left" alt="0hundred Discord" width="30px" src="https://raw.githubusercontent.com/0hundred0/ultima/main/public/images/ultima_logo.png" />][Ultima]
 
-
-
-[Not a Link to my site]: 0hundred.dev
+[Ultima]: https://www.ultima.rest/
 [Gilgamesh]: https://www.bigbadtoystore.com/product/variationdetails/106569?utm_source=google&utm_medium=opla&utm_term=FAT-106569
 [linkedin]: https://www.linkedin.com/in/kijana-p-richmond/
 [codepen]: https://codepen.io/0hundred
