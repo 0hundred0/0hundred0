@@ -3,8 +3,8 @@
 <br />
 
 ## I am an Animal Lover, Manga/Anime/Comics Geek, and I am a huge Kingdom Hearts fan ##
-- 💻 I am currently focusing on full-stack development and my API (Ultima.rest).
-- 📚 My favorite tool to use when developing is supabase as it makes creating and managing a database simple.
+- 💻 I am currently focusing on learning more about back-end development and working on my API (ultima.rest).
+- 📚 My favorite tool to use when developing is supabase because the documentation and implementation is very easy to pick up.
 - 👔 I am interested in hearing about new full-time opportunities.
 - 🥷🏾 Random Fact: I am a huge collector of anime figures, my next figure is going to be of [Gilgamesh].
 
