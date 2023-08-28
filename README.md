@@ -2,11 +2,11 @@
 
 <br />
 
-## I am an Animal Lover, Manga/Anime/Comics Geek, and I am a huge Kingdom Hearts fan ##
-- 💻 I am currently focusing on learning more about back-end development and working on my API (ultima.rest).
-- 📚 My favorite tool to use when developing is supabase because the documentation and implementation is very easy to pick up.
+## I am an Animal Lover, Manga/Anime/Comics Geek, and I am a bit of runner. ##
+- 💻 I am currently focusing on learning more about the "why" in a techstack.
+- 📚 Presently, I am engaged in the application of diverse algorithmic methodologies.
 - 👔 I am interested in hearing about new full-time opportunities.
-- 🥷🏾 Random Fact: I am a huge collector of anime figures, my next figure is going to be of [Gilgamesh].
+- 🥷🏾 Random Fact: I am a currently training for a marathon!
 
 <br />
 
@@ -27,13 +27,11 @@
 <br />
 
 ## Let's be internet friends! ##
-[<img align="left" alt="0hundred LinkedIn" width="30px" src=".github/images/linkedin.svg" />][linkedin]
-[<img align="left" alt="0hundred Codepen" width="30px" src=".github/images/codepen.png" />][codepen]
-[<img align="left" alt="0hundred Discord" width="30px" fill="#7289da" src=".github/images/discord.svg" />][discord]
-[<img align="left" alt="0hundred Discord" width="30px" src="https://raw.githubusercontent.com/0hundred0/ultima/main/public/images/ultima_logo.png" />][Ultima]
+[<img align="left" alt="Kijana LinkedIn" width="30px" src=".github/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="Kijana Codepen" width="30px" src=".github/images/codepen.png" />][codepen]
+[<img align="left" alt="Kijana Discord" width="30px" fill="#7289da" src=".github/images/discord.svg" />][discord]
 
-[Ultima]: https://www.ultima.rest/
-[Gilgamesh]: https://www.bigbadtoystore.com/product/variationdetails/106569?utm_source=google&utm_medium=opla&utm_term=FAT-106569
+
 [linkedin]: https://www.linkedin.com/in/kijana-p-richmond/
-[codepen]: https://codepen.io/0hundred
-[discord]: https://discordapp.com/users/813521466510540811/
+[codepen]: https://codepen.io/accidental-feature
+[discord]: https://discordapp.com/users/813521466510540811/](https://discord.gg/5Wj3VdRtRQ)https://discord.gg/5Wj3VdRtRQ
