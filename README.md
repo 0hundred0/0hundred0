@@ -1,4 +1,4 @@
-### Howdy, I am Kijana (Ka-john-a) and am a Web Developer😅! ###
+### Howdy, I am Kijana (Ka-john-a) and I code stuff 😅! ###
 
 <br />
 
